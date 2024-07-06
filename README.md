@@ -38,16 +38,45 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers = 129880
-
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
-
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
-
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
-
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
+## [1] bastic statistics
+- Total units sold are 518 units
+- total revenue generated is $80,57
+- average unit price is $236
 
 
-           thus, higher number of customers are neutral/unsatisfied.
- 
+
+
+## Trend sales analysis and performance
+
+### Revenue by months
+
+### Average unit price by months
+
+### Total revenue by category
+
+
+
+## product analysis 
+### Top 3 of best selling products
+
+### Average unit price of each category
+Electronics have the highest average unit price, followed by appliences. on the other hand books is the category that has the lowest average unit price.
+
+
+## Customer Behaviour
+
+### Payment method
+
+### Distribution of revenue by payment method
+
+### Revenue generated bby payment sub divided into region
+
+
+
+## Geographical Insights
+
+### units sold by Region
+
+### Best selling category by region
+
+###
